@@ -32,6 +32,8 @@ All methods are compatible with the ones in [lemire/fastrand](https://github.com
 
 ## Benchmarks
 
+Speed of functions when gernerating a random number in the range of 0 to 1000
+
 ```shell
 $ bash benchmark.sh
 _random.Random().random
